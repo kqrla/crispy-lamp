@@ -15,16 +15,18 @@ clawcrew covers
 
 clawcrew covers building beyond code to
 - boards [anytype / appflowy / affine]
-- docs [docmost]
-- tables & spreadsheets [baserow/nocodb instead of airtable]
-- slides
+- docs [docmost, tiptap.dev]
+- tables & spreadsheets [baserow/nocodb/grist instead of airtable]
+- slides [deckcraft @ getartcraft.com]
 - kanbans [kan.bn / itsaplan.dev]
-- datavisualization [plotly, chartjs]
+- datavisualization [plotly, chartjs, gephi, vizzuu, observablehq, d3]
 - whiteboards [excalidraw, mermaidjs]
 - design [penpot, opendesign, canva @ browser]
-- notes [obsidian, notesnook]
+- notes [obsidian, notesnook, github.com/deepnotesapp]
+- research [firecrawl, zotero, research@un.ms]
+- search / retrieval [falkordb / hydradb / helixdb]
 
-### iii. beyond just software 
+### iii. beyond just software [agents aren't shipped w all the tools, they get what they need based on scope to keep it light]
 
 also covers vertical agents with the ability to build real world manufacturables, like:
 - printed circuit boards
@@ -47,12 +49,12 @@ as well as making creative experiences, like:
 	- strudel
 	- sonic pi
 	- tidalcycles
- - supercollider
+    - supercollider
 - interactive installations
   - computer vision & pose tracking (mediapipe, opencv, yolo) w standard webcams / depth sensors (orbbec, redsense)
   - kinetic & robotic art
  
-and useable creative assets like:
+and useable creative assets like: 
 - making pixel art that can be computationally generated art with:
 	- adapted access to aseprite
 	- pio-8 & tic-80 games inside single .p8 / .lua files
